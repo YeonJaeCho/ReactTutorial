@@ -1,4 +1,4 @@
-export default function Baord() {
+export default function Board() {
   // JSX element
   return(
     <>
